@@ -19,5 +19,5 @@
     transition: background-color 0.25s;
 }
 .buttons:hover{
-    background-color: hs;
+    background-color: hsl(214, 100%, 56%)
 }
